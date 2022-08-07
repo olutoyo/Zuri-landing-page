@@ -1,20 +1,119 @@
 body{
     background-color: white;
+    background-image: url(https://zuri.team/img/hero-bg.svg);
 }
-
 
 .areas{
     display: flex;
+    width: 100%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 12pt;
+    
+    
+    
 }
 .center{
     text-align: center;
+    font-size: 18pt;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.centerb{
+    text-align: center;
+    font-size: 22pt;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
 }
 
 .center2{
-    width: 50%;
-    align-items: center;
+    padding-left: 25%;
+    padding-right: 20%;
+    text-align: center;
+    font-size: 13pt;
+    
 }
 
 .first{
     display: flex;
+    padding-left: 30%;
+    padding-right: 30%;
+    
+}
+
+a{
+    color: red;
+    text-decoration: none;
+}
+.red_button{
+    background-color: red;
+    border-color: red;
+    color: white;
+    width: 6cm;
+    height: 50px;
+    font-size: 13pt;
+    margin-right: 0.5cm;
+   
+}
+.red_button2{
+    background-color: white;
+    border-color: red;
+    color: red;
+    width: 6cm;
+    height: 50px;
+    font-size: 13pt;
+    margin-left: 0.5cm;
+}
+.red_button:hover{
+    background-color: white;
+    color: red;
+}
+.red_button2:hover{
+    background-color: red;
+    color: white;
+}
+.div4{
+    text-align: center;
+    font-size: 14pt;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    padding-left: 30%;
+    padding-right: 36%;
+
+    
+}
+
+.Training{
+    margin: 5%;
+    
+}
+
+.Internship{
+    margin: 5%;
+}
+
+.Talent{
+    margin: 5%;
+}
+.bottomlast{
+    display: flex;
+    width: 100%;
+}
+.zuri{
+    margin: 7%;
+    font-size: 16pt;
+}
+.link{
+    margin: 7%;
+}
+.contact{
+    margin: 7%;
+}
+.follow{
+    margin: 7%;
+}
+footer{
+    text-align: center;
+}
+.icons img{
+    width: 18px !important;
+    margin-right: 5px;
 }
