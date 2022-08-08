@@ -1,0 +1,52 @@
+body{
+    background-color:beige;
+}
+
+.enroll img{
+    width: 70%;
+    padding-left: 15%;
+}
+
+.firstline{
+    display: flex;
+    /* width: 100%; */
+    padding-top: 2%; 
+}
+a{
+    color: grey;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16pt;
+}
+.firsta{
+    padding-left: 8%;
+}
+.zurilogo{
+    padding-left: 3%;
+}
+.firstb{
+    padding-left: 4%;
+    width: 20%;
+}
+.firstc{
+    width: 30%;
+}
+.secondline{
+    display: flex;
+   
+}
+.imgfemale img{
+width: 50%;
+margin: 10%;
+
+}
+.imgmale img{
+    width: 100%;
+    margin: 10%;
+    
+    
+    }
+.secondlinemid{
+    
+   
+}
