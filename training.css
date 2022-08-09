@@ -1,5 +1,5 @@
 body{
-    background-color:beige;
+    background-color: rgb(255, 253, 245);
 }
 
 .enroll img{
@@ -33,20 +33,27 @@ a{
 }
 .secondline{
     display: flex;
+    margin: 5%;
+    
+   
    
 }
 .imgfemale img{
-width: 50%;
-margin: 10%;
+margin-top: 30%;
 
 }
 .imgmale img{
-    width: 100%;
-    margin: 10%;
+ margin-top: 30%;   
     
-    
-    }
+  }
+
 .secondlinemid{
-    
+    margin-right: 5cm;
+    width: 100%;
+    text-align: center;
+}
+.gain{
+   font-size: 36pt; 
+   width: 160%;
    
 }
